@@ -8,3 +8,6 @@ brown test set (provided in the code base), which contains 35,000+ words and the
 
 ## Input
 Console (can input sentences) and txt files.
+
+## Demo
+![Demo](./demo-screenshot.png)
