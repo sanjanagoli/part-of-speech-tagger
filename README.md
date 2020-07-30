@@ -6,8 +6,8 @@ The second part (based on the context of the sentence) is crucial as words can t
 brown test set (provided in the code base), which contains 35,000+ words and their corresponding parts of speech. This program was able to predict the parts of speech of words with about
 96% accuracy.
 
-## Input
-Console (can input sentences) and txt files.
+## Run
+Console (can input sentences) and txt files are accepted. Use a preferred IDE to run `MarkovModel`. In order to replace training and testing data, replace the values in `markov.reader()` and `markov.viterbi()`, respectively, in the main method. In order to test your own sentences, type input into the console. 
 
 ## Demo
 ![Demo](./demo-screenshot.png)
